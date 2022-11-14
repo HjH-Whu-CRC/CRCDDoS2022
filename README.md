@@ -58,6 +58,9 @@ with the help of tcpdump. Table 1 presents a list of
 workstations, servers and firewalls with their operating
 system as well as associated private and public IPs in
 testing and training days.
+![Testbed](figure/table.png)
+
+
 The third party executed the assault families in testing
 and training days. The Victim network comprises one
 server (Web server), two switches, one firewall and four
