@@ -66,5 +66,6 @@ the Victim network is configured as the mirror port and
 dedicatedly captures all incoming and outgoing traffic
 to a network.
 
-
+![Testbed](figure/arc.png)
+*Testbed*
 
