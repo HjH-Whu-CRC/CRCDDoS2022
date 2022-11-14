@@ -38,7 +38,7 @@ utilitarian testing with unparalleled versatility.
 In DDoS attacks, attackers try to evade servers which
 causes a lot of network bandwidth consumption due to
 ingress and egress traffic. By utilizing these test systems,
-the network architecture was simultaneous and simplified, a full network topology was created, as recommended for advancement of the effective dataset. Interestingly, these simulators can imitate hundred thousand
+the network architecture was simultaneous and simplified, a full network topology was created, as recommended for advancement of the effective dataset. Interestingly, these simulators can imitate hundred thousand
 attacks every second from Mac addresses and IP spoofing, with different protocols/traffic. The testbed permits
 load balance for attacks and benign traffic. Through such
 many choices, the test system produces real time traffic
