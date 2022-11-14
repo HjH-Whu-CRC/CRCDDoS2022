@@ -29,7 +29,7 @@ Golden eye, Bonesi, Mirai Botnet, Tor Hammer) are
 used for creating real world attack simulation. These
 simulators are strong, simple to utilize and produces
 realistic application traffic as well as attacks for testing
-performance, versatility along with security of application oriented networks. These simulators are the industry perceived world’s most powerful performing test
+performance, versatility along with security of application oriented networks. These simulators are the industry perceived world’s most powerful performing test
 systems for OSI layer 3-7 arrangement, and it imitates
 real application traffic. These have separate library of
 thousands of practical applications as well as attack
@@ -38,7 +38,7 @@ utilitarian testing with unparalleled versatility.
 In DDoS attacks, attackers try to evade servers which
 causes a lot of network bandwidth consumption due to
 ingress and egress traffic. By utilizing these test systems,
-the network architecture was simultaneous and simplified, a full network topology was created, as recommended for advancement of the effective dataset. Interestingly, these simulators can imitate hundred thousand
+the network architecture was simultaneous and simplified, a full network topology was created, as recommended for advancement of the effective dataset. Interestingly, these simulators can imitate hundred thousand
 attacks every second from Mac addresses and IP spoofing, with different protocols/traffic. The testbed permits
 load balance for attacks and benign traffic. Through such
 many choices, the test system produces real time traffic
@@ -57,7 +57,7 @@ and incoming traffic is captured through mirror port
 with the help of tcpdump. Table 1 presents a list of
 workstations, servers and firewalls with their operating
 system as well as associated private and public IPs in
-testing and training days. 1 2
+testing and training days.
 The third party executed the assault families in testing
 and training days. The Victim network comprises one
 server (Web server), two switches, one firewall and four
@@ -65,5 +65,6 @@ PCs. Likewise, one port in the fundamental switch of
 the Victim network is configured as the mirror port and
 dedicatedly captures all incoming and outgoing traffic
 to a network.
+
 
 
