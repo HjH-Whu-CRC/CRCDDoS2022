@@ -1,6 +1,6 @@
 # CRCDDoS2022
 # Developing Realistic Distributed Denial of Service (DDoS) Dataset for Machine Learning-based Intrusion Detection Systems
-## Introduction 
+## Executive summary 
 <p align="justify">
 During the last decade, attackers have compromised reputable systems to launch massive Distributed Denial of Services (DDoS) attacks against banking services, corporate websites, and e-commerce business. Such attacks cause enormous reputation and financial losses which ruined their services to authorized users. Conventionally, diverse solutions have been proposed to combat emerging DDoS attacks. However, there is no ideal solution available to-date. To validate majority of
 the existing solutions, researchers have considered simulation based experiments that become obsolete. Now a days, the trend has shifted to publicly available realistic datasets for DDoS validation purpose. Thus, in this research study, we have provided a comprehensive review of currently available datasets and
@@ -49,7 +49,6 @@ system as well as associated private and public IPs in
 testing and training days.
   
 ![Testbed](figure/table.png)
-
 
 The third party executed the assault families in testing
 and training days. The Victim network comprises one
