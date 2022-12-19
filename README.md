@@ -47,6 +47,7 @@ with the help of tcpdump. Table 1 presents a list of
 workstations, servers and firewalls with their operating
 system as well as associated private and public IPs in
 testing and training days.
+  
 ![Testbed](figure/table.png)
 
 
@@ -57,9 +58,7 @@ PCs. Likewise, one port in the fundamental switch of
 the Victim network is configured as the mirror port and
 dedicatedly captures all incoming and outgoing traffic
 to a network.
-  
-
 ![Testbed](figure/arc.png)
-*Testbed*
+<p align="center"> *Testbed*  </p>
    </p>
 
