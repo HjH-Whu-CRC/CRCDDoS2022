@@ -11,7 +11,8 @@ on the set of features in network flow. Lastly, this research
 provided the most significant feature sets for the detection of
 DDoS attacks of various types along with their corresponding
 weights . </p>
-## Testbed
+<h2>Testbed </h2>
+<p align="justify">
 Modern simulators (HOIC, Slowloris, DDoSIM, Mass,
 Golden eye, Bonesi, Mirai Botnet, Tor Hammer) are
 used for creating real world attack simulation. These
@@ -56,7 +57,9 @@ PCs. Likewise, one port in the fundamental switch of
 the Victim network is configured as the mirror port and
 dedicatedly captures all incoming and outgoing traffic
 to a network.
+  
 
 ![Testbed](figure/arc.png)
 *Testbed*
+   </p>
 
